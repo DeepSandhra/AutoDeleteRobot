@@ -3,15 +3,15 @@ class script(object):
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 😉, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽.. 𝚃𝙷𝙴𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚂 🦾\n\n𝐌𝐘 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 👇👇👇\n<a href=https://t.me/Technomindzyt><b>༒☬𝓡𝓐𝓥𝓘𝓝𝓐𝓝𝓓𝓐𝓝☬༒</b></a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙</b>
-<b>✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Technomindzyt><b>꧁༒☬𝓡𝓐𝓥𝓘𝓝𝓐𝓝𝓓𝓐𝓝☬༒꧂</b></a>
+    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: ᴀᴜᴛᴏꜰɪʟᴛᴇʀʙᴏᴛ </b>
+<b>✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/movi2x><b>Kᕼᴜsᕼ</b></a>
 <b>✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
 <b>✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</b>
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
-<b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/tmmainchannel>𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙</a></b>
-<b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://www.youtube.com/c/TechnoMindz>𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙</a></b>"""
+<b>✮ 𝙼𝚘𝚟𝚒𝚎𝚜 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 🍿: <a href=https://t.me/mdiskmovieshd_2022>ᴍᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟ 📥</a></b>
+<b>✮ 𝙼𝙾𝚅𝙸𝙴𝚂 𝚁𝙴𝚀𝚄𝙴𝚂𝚃 𝙱𝙾𝚃 🎬: <a href=https://t.me/MovieRequestGroup_rebot>𝙼𝙾𝚅𝙸𝙴𝚂 𝚁𝙴𝚀𝚄𝙴𝚂𝚃 🎬</a></b>"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
 <b>NOTE:</b>
 This module only works for my admins
@@ -28,12 +28,12 @@ This module only works for my admins
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>
 <b>DEVS:</b>
-- <a href=https://t.me/tmmainchannel><b>𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙</b></a>"""
+- <a href=https://t.me/mdiskmovieshd_2022>ᴍᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟ 📥</a></b>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
     
-- Filter is the feature were users can set automated replies for a particular keyword and 𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙  will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and Kᕼᴜsᕼ  will respond whenever a keyword is found the message
 <b>NOTE:</b>
-1. 𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙 should have admin privillage.
+1. Kᕼᴜsᕼ should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 <b>Commands and Usage:</b>
@@ -42,10 +42,10 @@ This module only works for my admins
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
--𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙  Supports both url and alert inline buttons.
+-Kᕼᴜsᕼ  Supports both url and alert inline buttons.
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. 𝐓𝐄𝐂𝐇𝐍𝐎 𝐌𝐈𝐍𝐃𝐙 supports buttons with any telegram media type.
+2. Kᕼᴜsᕼ supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 <b>URL buttons:</b>
 <code>[Button Text](buttonurl:https://t.me/tmmainchannel)</code>
@@ -71,7 +71,7 @@ This module only works for my admins
 • /connections - <code>list all your connections</code>"""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 <b>NOTE:</b>
-these are the extra features of Techno Mindz
+these are the extra features of Kᕼᴜsᕼ
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
 • /info  - <code>get information about a user.</code>
@@ -107,7 +107,7 @@ This module only works for my admins
 ✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/Technomindzyt><b>꧁༒☬𝓡𝓐𝓥𝓘𝓝𝓐𝓝𝓓𝓐𝓝☬༒꧂</b></a> ᚛━━━━━━━━━━━━
+━━━━━━━━━━━━᚜ <a href=https://t.me/movi2x><b>Kᕼᴜsᕼ</b></a> ᚛━━━━━━━━━━━━
 ›› <b>𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b>
 ⪼ <b>𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐖𝐡𝐢𝐜𝐡 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐏𝐫𝐨𝐦𝐨𝐭𝐞 . 
 <b>━━━━━━━━━᚜ Payment Methods ᚛━━━━━━━━━
@@ -116,7 +116,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 ✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐀𝐧𝐝 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/Technomindzyt><b>꧁༒☬𝓡𝓐𝓥𝓘𝓝𝓐𝓝𝓓𝓐𝓝☬༒꧂</b></a> ᚛━━━━━━━━━━━━"""
+━━━━━━━━━━━━᚜ <a href=https://t.me/movi2x><b>Kᕼᴜsᕼ</b></a> ᚛━━━━━━━━━━━━"""
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
     
 <b>★ 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
@@ -128,5 +128,5 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 <b>★ 𝐈𝐃 - <code>{}</code></b>
 <b>★ 𝐍𝐚𝐦𝐞 - {}</b>
 
-@TmMainChannel
+@mdiskmovieshd_2022
 """
