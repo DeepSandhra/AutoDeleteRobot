@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/TechnoMindz/AutoDeleteRobot",
-    "repository": "https://github.com/TechnoMindz/AutoDeleteRobot",
+    "website": "https://github.com/DeepSandhra/AutoDeleteRobot",
+    "repository": "https://github.com/DeepSandhra/AutoDeleteRobot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
